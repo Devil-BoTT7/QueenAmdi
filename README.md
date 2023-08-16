@@ -8,7 +8,7 @@
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 ![Docker Size](https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Pulls](https://telegra.ph/file/517cb3222e69c93f48d08.jpg?)
 
 ![forks](https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social)
@@ -29,13 +29,13 @@
 
 **[» See heroku deploy instructions](https://amdaniwasa.com/#install)**
 
-**[» See other deploy methods](https://amdaniwasa.com/#install)**
+**[» See other deploy methods](Wa.me/923077900642)**
 
 **[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aURC3Rie3l8ulR)**
 
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
+## 🐝 Devil King Team - A.N.Tech *[ Devil2016 ]*
 
-| <a href="https://amdaniwasa.com"><img src="https://avatars.githubusercontent.com/u/83172207?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
+| <a href="https://telegra.ph/file/517cb3222e69c93f48d08.jpg"><img src="https://avatars.githubusercontent.com/u/83172207?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
 |---|---|---|
 | **[Achintha Bandara](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[Black Amda]* | **[Sasmitha Ashinsana](https://github.com/SinhalayaCreator)**</br>Co-Admin/Developer | **[Lil Luzi](https://github.com/Sajiya2002)**</br>User Supporter |
 | <a href="https://dinaaofficial.github.io/dina-official/"><img src="https://avatars.githubusercontent.com/u/85923514?v=4" width=80 height=80></a> | <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://avatars.githubusercontent.com/u/89117663?v=4" width=80 height=80></a> |  **Kapaya**</br>Group Management | |
