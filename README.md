@@ -7,7 +7,7 @@
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Size)
+![Docker Size](https://telegra.ph/file/517cb3222e69c93f48d08.jpg)
 ![Docker Pulls](https://telegra.ph/file/517cb3222e69c93f48d08.jpg?)
 
 ![forks](https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Forks&style=social)
